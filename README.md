@@ -1,4 +1,5 @@
 # MoleMash #
+Version 1
 Mole mash instructions and functions
 
 A mole pops up at random locations on the
